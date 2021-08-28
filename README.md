@@ -1,2 +1,3 @@
-# javascript-stuff
-some JavaScript stuff.
+# stuff
+
+some stuff written in javascript
