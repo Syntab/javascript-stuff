@@ -1,5 +1,3 @@
-function main() {
-    console.log("ok");
-};
+function main() { console.log("ok"); };
 
 main();
